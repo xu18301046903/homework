@@ -6,6 +6,6 @@ h1,h2,h3,h4,h5,h6{ font-size:14px;}
 input,select,textarea{ vertical-align:middle;}
 img{ border:none; vertical-align:middle;}
 a{ text-decoration:none; color:#333333;}
-a:hover{ color:red;}
+a:hover{ color:#009999;}
 .clear{ clear:both; height:0px; width:0px; overflow:hidden;}
 .html{ font-size: 62.5%;}
